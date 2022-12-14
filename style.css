@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    margin: 40px;
+}
+p {
+    font-size: 25px;
+}
+div {
+    margin: 60px;
+}
+.col {
+    background-color: rgb(179, 124, 22);
+    font-size: 25px;
+    font-style: italic;
+}
+img {
+    
+    margin: auto;
+    max-height: 190px;
+    max-width: 220px;
+}
+
+#carouselExampleControls {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a :visited{
+    color: blue;
+}
+ footer {
+    background-color: rgb(197, 136, 21);
+    padding: 30px;
+ }
+ 
+ i {
+    font-size: 40px;
+    padding: 20px;
+ }
+
+ 
